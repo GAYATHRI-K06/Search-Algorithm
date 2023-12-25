@@ -113,10 +113,9 @@ else:
 
 ```
 ## Sample Input and Output
-
-![Alt text](<Screenshot 2023-12-25 090656.png>)
-![Alt text](<Screenshot 2023-12-25 090705.png>)
-![Alt text](<Screenshot 2023-12-25 090716.png>)
+![Screenshot 2023-12-25 090656](https://github.com/GAYATHRI-K06/Search-Algorithm/assets/145742742/b3f88464-f87c-4f8e-82bf-c797ac23bd8b)
+![Screenshot 2023-12-25 090705](https://github.com/GAYATHRI-K06/Search-Algorithm/assets/145742742/34a00064-d513-4ad6-b548-3a7e62274c02)
+![Screenshot 2023-12-25 090716](https://github.com/GAYATHRI-K06/Search-Algorithm/assets/145742742/ff3fff8f-fe6c-4d4f-8104-6109ab6b5595)
 
 
 ## Result
